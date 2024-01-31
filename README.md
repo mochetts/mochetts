@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Currently working @ [Almanac](https://almanac.io/) as a Software Engineer.
-- 🌱 Currently learning how to scale things in the cloud with Google Cloud Platform.
-- 👯 Looking to collaborate on ruby projects (:heart:), but I also enjoy using Node, Vue, React, Nuxt & Next.
-- 💬 Ask me about Ruby/RoR & Vue best practices. I can also be helpful with Mongo/Mongoid questions.
+- 🔭 Building the future of loans.
+- 🌱 Learning how to not follow the trends.
+- 👯 Ruby (on Rails) is my passion (:heart:)
+- 💬 Ask me anything about Ruby/RoR, React or Software Architecture best practices.
 - 📫 Wanna talk? shoot me an email to martin@mochetts.com
 - 🌎 [mochetts.com](https://mochetts.com/)
